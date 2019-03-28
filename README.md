@@ -21,13 +21,13 @@ To recreate the game, it involves a play by play turn against the computer. Base
 
 Given below is the userStories used for this project:
 
-![UserStories Screenshot](https://git.generalassemb.ly/AkshayMysore/Project1/blob/master/Additional%20Files/userStories%20Screenshot.png) 
+![UserStories Screenshot](https://github.com/Akshay199456/Project-1/blob/master/Additional%20Files/userStories%20Screenshot.png) 
 
 ## Wireframes:
 
 Given below is the wireFrame used for this project:
 
-![wireFrame Screenshot](https://git.generalassemb.ly/AkshayMysore/Project1/blob/master/Additional%20Files/wireframe%20Screenshot.png)
+![wireFrame Screenshot](https://github.com/Akshay199456/Project-1/blob/master/Additional%20Files/wireframe%20Screenshot.png)
 
 ## Unsolved problems and future additions:
 
