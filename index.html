@@ -7,18 +7,21 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 </head>
 <body>
-	
 	<iframe src="sounds/silence.mp3" allow="autoplay" id="audio"></iframe>
 	<audio id="player" autoplay loop>	
-	    <source src="sounds/homePageSound.mp3" type="audio/mpeg"> 
+		<source src="sounds/homePageSound.mp3" type="audio/mpeg"/>
+		This text displays if the audio tag isn't supported 
     </audio>
-    
-    <a href="https://fontmeme.com/pokemon-font/"><img class = "pokemonFont" src="https://fontmeme.com/permalink/190108/d5d66e666f89055c838378429dc8ab7c.png" alt="pokemon-font"></a>
-
-    <nav>
-    	<a href="#"> Select Player </a>	
-    	<a href="instruction.html"> Instructions</a>
-    </nav>
+	
+	<div id="container">
+		<div class = "pokemonFont">
+			<a><img src="https://fontmeme.com/permalink/190108/d5d66e666f89055c838378429dc8ab7c.png" alt="pokemon-font"></a>
+		</div>
+		<nav>
+			<a href="#"> Select Player </a>	
+			<a href="instruction.html"> Instructions</a>
+		</nav>
+	</div>
 
     <h2 class = "hide"> Ash </h2>
     <h2 class = "hide"> May </h2>

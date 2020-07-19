@@ -81,7 +81,7 @@ $imageFemale.click(function(){
 /*----- functions -----*/
 
 
-//----- Make the elements in the modal appear and disappera
+//----- Make the elements in the modal appear and disappear
 function hideElements($userSelectionDiv){
 	$h2.toggleClass("hide");
 	$imageMale.toggleClass("hide");
